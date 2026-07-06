@@ -1,0 +1,24 @@
+# Keil 编译产物
+*.obj
+*.lst
+*.map
+*.bin
+*.m51
+*.plg
+*.lnp
+*.build_log.htm
+
+# Proteus
+*.pdsbak
+*.dbk
+*.bak
+*.autosave
+*.workspace
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 本地配置
+.vscode/
+.idea/
